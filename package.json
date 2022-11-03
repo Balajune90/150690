@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Express Example",
   "main": "entry.js",
+  "type":"module",
   "scripts": {
     "start": "nodemon entry.js"
   },
