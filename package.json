@@ -1,0 +1,25 @@
+{
+  "name": "150690",
+  "version": "1.0.0",
+  "description": "Express Example",
+  "main": "entry.js",
+  "scripts": {
+    "start": "nodemon entry.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balajune90/150690.git"
+  },
+  "author": "Balachander.Veluswamy@nike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balajune90/150690/issues"
+  },
+  "homepage": "https://github.com/Balajune90/150690#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
